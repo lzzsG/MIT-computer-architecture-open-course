@@ -1,4 +1,4 @@
-# MIT-computer-architecture-open-course
+# MIT Digital Systems Design Series Labs
 
 Learning code repository for the MIT computer architecture open course learning community
 
